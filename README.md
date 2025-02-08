@@ -1,2 +1,2 @@
 # LiL-SIM
-This repository provides information about the LiL-SIM method. It contains plans to build the experimental setup and software code for control and synchronization.
+This repository includes the code for controlling a line-scanning microscope published in x. It is specifically customized for certain electronic equipment, as detailed in the provided hardware list. Users should be aware that modifications may be necessary to adapt the script to different setups. While the project remains in an experimental state, contributions are welcome, and pull requests addressing major issues will be considered for integration.
