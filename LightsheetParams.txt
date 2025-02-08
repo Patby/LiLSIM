@@ -1,0 +1,2 @@
+Angle 1,Angle1 Bot,Angle 2,Angle 3
+-0.872,0.125,-0.872,-0.872
